@@ -63,7 +63,7 @@ export default function Projects() {
           desc: "A modern personal portfolio showcasing skills, projects, and professional experience.",
           img: "myportfoilo.png",
           github: "https://github.com/swapnilpopalghat686/myportfolio.git",
-          live: "https://myportfolio-iklj.vercel.ap",
+          live: "https://myportfolio-drab-six-62.vercel.app/",
         },
 
       ]);
