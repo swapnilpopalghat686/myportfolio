@@ -15,7 +15,7 @@ import AdminAbout from "./admin/AdminAbout";
 import AdminProjects from "./admin/AdminProjects";
 import AdminSkills from "./admin/AdminSkills";
 import AdminContact from "./admin/AdminContact";
-// import MainPage from "./pages/Hero";
+
 import Hero from "./pages/Hero";
 
 // Wrapper component to handle Navbar visibility
