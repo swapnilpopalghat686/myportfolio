@@ -62,8 +62,8 @@ export default function Projects() {
           title: "My Portfolio Website ",
           desc: "A modern personal portfolio showcasing skills, projects, and professional experience.",
           img: "myportfoilo.png",
-          github: "#",
-          live: "#",
+          github: "https://github.com/swapnilpopalghat686/myportfolio.git",
+          live: "https://myportfolio-iklj.vercel.ap",
         },
 
       ]);
